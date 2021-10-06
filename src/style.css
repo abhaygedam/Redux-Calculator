@@ -1,0 +1,19 @@
+.counter {
+	width: 100px;
+	height: 40px;
+	border-radius: 10px;
+	margin: 0px auto 40px auto;
+	border: 1px solid black;
+	padding-top: 15px;
+}
+
+.counterButt {
+	width: 100px;
+	height: 40px;
+	border-radius: 20px;
+	margin: 10px 20px;
+}
+
+.inputBox {
+	padding-left: 30px;
+}
